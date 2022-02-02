@@ -46,7 +46,7 @@ TBD welcome paragraph
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><strong>Challenge 1: Ignore all files starting with the letter `z`</strong></summary>
 
 ### :wave: Welcome to "TBD"!
@@ -67,7 +67,7 @@ TBD welcome paragraph
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><strong>Challenge 2: Ignore a file called `.env`</strong></summary>
 
 ### :tada: You did TBD!
